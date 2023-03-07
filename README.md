@@ -1,2 +1,2 @@
-# Hello_world
+# CS50P
 My first Python Repo
