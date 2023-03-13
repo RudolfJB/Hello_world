@@ -1,2 +1,2 @@
 # CS50P
-My first Python Repo
+My first Python problem set
