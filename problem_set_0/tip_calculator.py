@@ -7,11 +7,11 @@ def main():
     percent = percent_to_float(
         input("What % would you like to tip? "))
     # do the math
-    tip = float(dollars) * float(percent)
+    tip = float(dollars) * float(percent)/(100)
 
     dollars = float(dollars)
 
-    percent = float(percent)/(100)
+    percent = float(percent)
 
     print(f"meal  {dollars:.2f}")
     print(f"tip   {percent}")
